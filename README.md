@@ -1,20 +1,19 @@
-# Projeto-DIO-Java-Kubernets
-
 :spiral_calendar: Atualizado em 10 de abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One Java
 
-# Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja
+# Rodando sua aplicação Java no Kubernetes. Do deploy ao debug sem medo!
 
-- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/rpeleias/beer_api_digital_innovation_one
-- Professor: Rodrigo Peleias
-- Aulas: https://web.digitalinnovation.one/lab/desenvolvimento-de-testes-unitarios-para-validar-uma-api-rest-de-gerenciamento-estoques-de-cerveja/learning/d00f891f-65bb-4149-85f0-57d771116214
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/sandrogiacom/java-kubernetes
+- Professor: 
+Sandro Giacomozzi
+- Aulas: https://web.digitalinnovation.one/project/rodando-sua-aplicacao-java-no-kubernetes-do-deploy-ao-debug-sem-medo/learning/86a86c6c-f7ad-440e-9921-45132c98d81a?back=/track/inter-java-developer&bootcamp_id=a531bc7a-f29e-4293-85eb-e4efd6072f2b
 
 # Descrição
 
-Neste Labs você irá aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos construir testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
+Neste projeto você terá o desafio de construir um ambiente Kubernetes local para que possamos aprender a tecnologia sem medo de errar. Vamos criar os recursos necessários para fazer o deploy no cluster e configurar nossa aplicação a fim de fazer debug enquanto ela está rodando no Kubernetes.
 
 # Melhorias implementadas
 
