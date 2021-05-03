@@ -7,7 +7,7 @@
 # Rodando sua aplicação Java no Kubernetes. Do deploy ao debug sem medo!
 
 - Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/sandrogiacom/java-kubernetes
-  e link com ferramentas diversas: https://github.com/sandrogiacom/k8s
+  e link com ferramentas diversas: https://github.com/sandrogiacom/k8s e scripts para instalação https://github.com/sandrogiacom/dev-kits
 - Professor: 
 Sandro Giacomozzi
 - Aulas: https://web.digitalinnovation.one/project/rodando-sua-aplicacao-java-no-kubernetes-do-deploy-ao-debug-sem-medo/learning/86a86c6c-f7ad-440e-9921-45132c98d81a?back=/track/inter-java-developer&bootcamp_id=a531bc7a-f29e-4293-85eb-e4efd6072f2b
